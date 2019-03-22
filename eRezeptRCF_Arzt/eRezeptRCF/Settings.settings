@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="eRezeptRCF" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="auto_login" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="server_ip" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="server_port" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">443</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

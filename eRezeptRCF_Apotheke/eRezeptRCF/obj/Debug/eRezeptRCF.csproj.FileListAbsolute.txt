@@ -1,0 +1,73 @@
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
+C:\Users\steve\Desktop\To NAS\E-Health\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.Resource.resources
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\Release\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Quittierung.resources
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Quittierung.resources
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.Resource.resources
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\steve\Desktop\Neuer Ordner\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Quittierung.resources
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.Resource.resources
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.dll
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.pdfa.dll
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xtra.dll
+D:\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xml
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.dll
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.pdfa.dll
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xtra.dll
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xml
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Quittierung.resources
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.Resource.resources
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+D:\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csprojResolveAssemblyReference.cache
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Quittierung.resources
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.F_Workbench.resources
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.Resource.resources
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.csproj.GenerateResource.Cache
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.exe
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe.config
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.exe
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\eRezeptRCF.pdb
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.dll
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.pdfa.dll
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xtra.dll
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\bin\Debug\itextsharp.xml
+C:\Users\steve\Dropbox\E_Health_Gruppenordner\Projekte\eRezeptRCF_Apotheke\eRezeptRCF\obj\Debug\eRezeptRCF.pdb
